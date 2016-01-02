@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+}
+
+.main {
+  border: none;
+  font: normal normal bold 100px/normal "Lobster", Helvetica, sans-serif;
+  color: rgb(64, 126, 196);
+  text-align: center;
+  text-shadow: 1px 1px 0 rgb(77,162,252) , -1px -1px 0 rgb(77,162,252) , 1px -1px 0 rgb(77,162,252) , -1px 1px 0 rgb(77,162,252) , 4px 4px 8px rgb(44,88,137) , -4px 4px 8px rgb(44,88,137) , 4px -4px 8px rgb(44,88,137) , -4px -4px 8px rgb(44,88,137) ;
+
+}
